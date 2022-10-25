@@ -1,2 +1,2 @@
 # Pesquisa-FernandodeNoronha
-Pesquisa feita em Html5 e css3, ilha de Fernando de Noronha.
+BLOG feito em HTMLl5 e CSS3, sobre a ilha de Fernando de Noronha.
